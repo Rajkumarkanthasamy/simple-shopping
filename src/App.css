@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.productscard{
+
+}
+
+.productscard:hover{
+  position: relative !important;
+  top: "20px" !important;
+  background-color: black !important;
+}
